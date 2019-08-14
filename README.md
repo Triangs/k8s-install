@@ -14,7 +14,7 @@ node    192.168.20.54
 #### 安装Master集群<br/>
 下载项目：
 ```
-git clone https://github.com/zdwork/k8s-install.git
+git clone https://github.com/firstMadManTeam/k8s-install.git
 cd k8s-install
 ```
 修改 conf/master-install.conf<br/>
